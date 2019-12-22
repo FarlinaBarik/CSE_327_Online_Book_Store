@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Simple Ecommerce Project in PHP & MySQL</title>
+<title>online book store</title>
 <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" >
  
